@@ -1,0 +1,21 @@
+/*.bg-img {  
+ 	background-color: #FFCCCC;
+}
+.thumbnail {
+  border-top: 0.2rem solid red;
+
+}
+.bg .bg-item {
+  height: 416px;
+  background: url(/picture/bg.jpg)no-repeat center/cover;
+  color: #FFCCCC;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}*/
+div{
+	background: url(/picture/bg.png);
+	background-size: 1200px 1290px;
+	background-repeat: no-repeat;
+
+}
